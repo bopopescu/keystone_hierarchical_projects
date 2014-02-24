@@ -1,0 +1,4 @@
+selinux-policy-targeted
+mongodb-server
+pymongo
+mongodb # NOPRIME
